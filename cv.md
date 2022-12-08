@@ -5,7 +5,7 @@
 - **Phone:** +998 33 980 80 88
 - **Email:** mr.abdulloh98@gmail.com
 - **Github:** Abdullakhns
-- **Discord:** Abdullakh#8670
+- **Discord:** Abdullakh
 
 ## About Me:
 
@@ -17,13 +17,10 @@ I'm 24 years old. I decided to become a programmer and started studying on this 
 
 - HTML 
 - CSS 
-   - SASS
-   - SCSS
-- Bootstrap 
 - JavaScript(basic) 
+- Bootstrap 
 - Git
 - Figma
-- VSCode
 
 
 ## Courses:
