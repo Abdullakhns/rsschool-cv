@@ -25,6 +25,21 @@ I'm 24 years old. I decided to become a programmer and started studying on this 
 - Figma
 - VSCode
 
+
+
+## Courses:
+
+ ### I received a certificate in *Responsive Web Design* at **[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)**.
+
+ - ### [My certificate](https://www.freecodecamp.org/certification/Abdullakhns/responsive-web-design)
+
+ ## Languages:
+  
+  - Uzbek - Native
+  - Russian
+  - English (A2)
+
+
 ## Code Example:
 
 ```javascript
@@ -41,15 +56,3 @@ document.querySelectorAll(".nav-link").forEach(n => n.addEventListener("click", 
     navMenu.classList.remove("active")
 }))
 ```
-
- ## Courses:
-
- ### I received a certificate in *Responsive Web Design* at **[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)**.
-
- - ### [My certificate](https://www.freecodecamp.org/certification/Abdullakhns/responsive-web-design)
-
- ## Languages:
-  
-  - Uzbek - Native
-  - Russian
-  - English (A2)
